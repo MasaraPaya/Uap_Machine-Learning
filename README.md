@@ -85,3 +85,15 @@ Pastikan seluruh dependensi telah terinstal.
 
 ```bash
 streamlit run app.py
+
+## Catatan Penyimpanan Model
+
+Model CNN (From Scratch) tidak disertakan di repository GitHub karena ukuran file model yang cukup besar sehingga melebihi batas unggah GitHub. 
+
+Namun demikian, model CNN tetap:
+- dilatih dan dievaluasi secara penuh,
+- digunakan sebagai baseline dalam analisis,
+- dan hasil evaluasinya disertakan dalam tabel perbandingan model.
+
+Model MobileNetV2 dan EfficientNetB0 disertakan dalam repository karena memiliki ukuran file yang lebih efisien dan digunakan pada implementasi website Streamlit.
+
