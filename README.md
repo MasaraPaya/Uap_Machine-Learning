@@ -18,6 +18,7 @@ Proyek ini dikembangkan sebagai bagian dari **Tugas Ujian Akhir Praktikum (UAP) 
   - Sunflower  
   - Tulip  
 - **Jumlah Data**: 8.455 citra dalam 5 folder  
+  (jumlah data awal < 5.000 citra, kemudian ditingkatkan melalui augmentasi data)
 - **Preprocessing dan Augmentasi**:
   - Resize citra menjadi 224 × 224
   - Normalisasi dan preprocessing sesuai arsitektur model
