@@ -98,3 +98,6 @@ Pastikan seluruh dependensi telah terinstal.
 
 ```bash
 streamlit run app.py
+```
+
+
